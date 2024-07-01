@@ -1,0 +1,34 @@
+{
+    "name": "InputSystem",
+    "maps": [
+        {
+            "name": "Land",
+            "id": "7a38a9f9-e39e-4988-923b-7e22882def4e",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Button",
+                    "id": "48425d23-3b9c-4c1b-beee-b07fdfedcaa2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "781dee78-ed8d-4463-877c-0ce7fd73a82c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
